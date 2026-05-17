@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anant Maurya
 =====================================================================================================================================
 
-Junior Full Stack Developer
+Jr. Full Stack Developer
 ---------------------------
 
 I'm an Information Technology student passionate about turning ideas into impactful digital solutions. Interested in Full-Stack Development and UI/UX Design, I focus on building applications that are intuitive, efficient, and visually engaging.
