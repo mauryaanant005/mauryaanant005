@@ -1,6 +1,6 @@
 # <div align="center">
 # 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Anant+Maurya;Full+Stack+Developer;UI%2FUX+Enthusiast;Building+Amazing+Solutions)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I%27m+Anant;Welcome+to+my+GitHub+Profile)]()
 #
 # </div>
 
@@ -83,6 +83,23 @@
 
 ---
 
+### 🧰 GitHub Skills
+<div align="center">
+
+<!-- Skill icons generated using skillicons.dev for compact Git/GitHub related icons -->
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,markdown" alt="GitHub Skills"/>
+
+<br>
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributions-green?style=flat-square)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -122,17 +139,19 @@ Explore all my projects on [GitHub](https://github.com/mauryaanant005?tab=reposi
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mauryaanant005&show_icons=true&hide=&count_private=true&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&bg_color=0d1117&hide_border=false" alt="GitHub Stats" />
+      <!-- GitHub Readme Stats (main stats card) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=mauryaanant005&show_icons=true&count_private=true&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&bg_color=0d1117" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauryaanant005&stroke=00D9FF&background=0d1117&ring=00D9FF&fire=FF006E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+      <!-- GitHub Streak Stats (use the vercel alternative if herokuapp is unreliable) -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauryaanant005&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 ### Top Languages
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryaanant005&langs_count=10&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&bg_color=0d1117&hide_border=false&layout=compact" alt="Top Languages" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryaanant005&langs_count=10&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&bg_color=0d1117" alt="Top Languages" />
 
 </div>
 
