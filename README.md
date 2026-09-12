@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Anant%20Maurya&fontAlign=50&fontAlignY=38&color=0:0f172a,50:1e3a8a,100:0f766e&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Minded%20Engineer&descAlign=50&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Anant%20Maurya&fontAlign=50&fontAlignY=36&color=0:020617,35:0f172a,70:1d4ed8,100:0f766e&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Minded%20Engineer&descAlign=50&descAlignY=58" alt="header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Crafting+modern+web+experiences;Building+scalable+full-stack+apps;Designing+clean%2C+usable+interfaces;Learning+and+shipping+every+day" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=920&lines=Crafting+modern+web+experiences;Building+scalable+full-stack+apps;Designing+clean%2C+usable+interfaces;Learning+and+shipping+every+day" alt="typing svg" />
 
   <br />
 
@@ -12,20 +12,17 @@
 
 <br />
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">About Me</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Full%20Stack-Developer-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
-          <img src="https://img.shields.io/badge/From-Mumbai%2C%20India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" />
-          <img src="https://img.shields.io/badge/Focus-Performance%20%26%20DX-0f172a?style=for-the-badge&logo=rocket&logoColor=white" />
-        </div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">About Me</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Full%20Stack-Developer-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/From-Mumbai%2C%20India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" />
+        <img src="https://img.shields.io/badge/Focus-Performance%20%26%20DX-0f172a?style=for-the-badge&logo=rocket&logoColor=white" />
+      </div>
 
-        <br />
-
-        <div align="left">
+      <br />
 
 ```txt
 💻 Full Stack Developer
@@ -38,25 +35,16 @@
 - 🌱 Learning: Advanced TypeScript, System Design, Cloud & DevOps
 - 🤝 Open to collaboration, open source, freelance, and full-time roles
 - 📫 Reach me at: **mauryaanant005@gmail.com**
-
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Glassmorphism Corner</h3>
-        <div align="center">
-          <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80" width="100%" style="border-radius:18px;" alt="workspace" />
-        </div>
-
-        <br />
-
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=mauryaanant005&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="170" />
-          <img src="https://streak-stats.demolab.com?user=mauryaanant005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Glassmorphism Stats</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mauryaanant005&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" height="170" />
+        <img src="https://streak-stats.demolab.com?user=mauryaanant005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,22 +52,20 @@
 
 <div align="center">
 
-### Languages & Core
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-### Frontend
+<br />
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" />
 <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 
-### Backend / DB / DevOps
+<br />
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
@@ -127,12 +113,10 @@
 ## 🎯 Current Focus
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Building-High%20quality%20full--stack%20projects-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-Cloud%20%26%20Deployment-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Growing-System%20Design%20%26%20Architecture-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Collaborating-Open%20Source-0f172a?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Building-High%20quality%20full--stack%20projects-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Cloud%20%26%20Deployment-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Growing-System%20Design%20%26%20Architecture-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collaborating-Open%20Source-0f172a?style=for-the-badge" />
 </div>
 
 ---
