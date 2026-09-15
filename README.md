@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Anant%20Maurya&fontAlign=50&fontAlignY=36&color=0:020617,35:0f172a,70:1d4ed8,100:0f766e&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Minded%20Engineer&descAlign=50&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Anant%20Maurya%20%7C%20Crafting%20The%20Uncommon&fontAlign=50&fontAlignY=36&color=0:020617,35:0f172a,70:1d4ed8,100:0f766e&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Building%20distinct%20digital%20experiences&descAlignY=58&descSize=18" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=920&lines=Crafting+modern+web+experiences;Building+scalable+full-stack+apps;Designing+clean%2C+usable+interfaces;Learning+and+shipping+every+day" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=920&lines=Crafting+distinct+web+experiences;Turning+ideas+into+clean+products;Building+with+precision+and+purpose" />
 
   <br />
 
